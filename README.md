@@ -15,7 +15,7 @@ node-unblocker相对于PHP的web代理性能要好，且易于在Heroku上部署
 
 # 一键部署，请点击下方的"Deploy to Heroku"按钮
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # 常见问题
 1 不能打开heroku进行部署：heroku的登录/注册服务器已被 GfW 屏b，请翻墙进行部署（部署成功后不影响正常使用）
