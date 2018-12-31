@@ -11,7 +11,7 @@ node-unblocker相对于PHP的web代理性能要好，且易于在Heroku上部署
 
 2、净化google，github链接
 
-3、添加了一些个人常用链接，如 pixiv，niconico
+3、添加了一些个人常用链接，如 pixiv，niconico,baidu
 
 # 一键部署，请点击下方的"Deploy to Heroku"按钮
 
